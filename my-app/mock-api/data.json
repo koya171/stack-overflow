@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "email": "koya123@yopmail.com",
+      "username": "Narendrakoya",
+      "password": "1234567",
+      "id": 1
+    },
+    {
+      "email": "koya@gmail.com",
+      "username": "koya",
+      "password": "jayanthi@12345",
+      "id": 2
+    }
+  ],
+  "questions": [
+    {
+      "username": "koya",
+      "question": "This is my first question",
+      "solutions": [
+        {
+          "username": "koya",
+          "solution": "Everything is fine at one point of time.",
+          "upvotes": [2],
+          "downvotes": []
+        },
+        {
+          "username": "koya",
+          "solution": "Search for google for better solutions",
+          "upvotes": [2],
+          "downvotes": []
+        }
+      ],
+      "id": 1
+    },
+    {
+      "username": "koya",
+      "question": "This is my second question",
+      "solutions": [
+        {
+          "username": "koya",
+          "solution": "Don\"t wait for the answer from others try to find out the solution by googling yourself.",
+          "upvotes": [2],
+          "downvotes": []
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
